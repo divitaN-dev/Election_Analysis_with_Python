@@ -27,11 +27,11 @@ The purpose of the analysis is twofold -
 
 - The winning candidate was - Diana DeGette with a vote count of 272,892 and vote percentage of 73.8%.
 
-  Following is the scrrenshot of the election_analysis.txt file which was generated within seconds of running the python script:
+  Following is the screenshot of the election_analysis.txt file which was generated within seconds of running the python script:
 
-  ![image]()
+  ![image](https://github.com/divitaN-dev/Election_Analysis_with_Python/blob/master/resources/election_results.png)
 
-##Election-Audit Summary:
+## Election-Audit Summary:
 The project's python script is an efficient solution to generate an easy to read election results report within seconds by reading and processing a large excel dataset.
 It would be an asset in streamlining elections results anaylsis in the future by saving significant time and effort for election workers and also minimizing possibilities of errors.
 
